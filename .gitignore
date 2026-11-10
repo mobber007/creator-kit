@@ -1,0 +1,19 @@
+# the owner's own material never goes to the public repo
+work/
+numbers/
+memory/*
+!memory/MEMORY.md
+plans/*
+!plans/README.md
+.env
+.venv/
+# media stays local
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.mp3
+_check/
+*-sheet.jpg
+.DS_Store
+__pycache__/

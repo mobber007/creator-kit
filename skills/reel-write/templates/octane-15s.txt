@@ -1,0 +1,29 @@
+Fictional dramatized scene performed by adult actors. All names, places and events are invented. Audio and text policy: only the scripted dialogue and the natural sounds named below; no music, no subtitles, captions or on-screen text of any kind.
+
+Visual style: a gritty, high-energy action thriller with the look of a feature film; the camera handheld, running alongside and jolting with every impact; <SEVEN SHOTS JOINED BY HARD CUTS | ONE CONTINUOUS SHOT WITH NO CUTS>, fifteen seconds in all; hard contrast, shallow depth of field; <TWO LIGHT SOURCES, e.g. warm stall bulbs and cold blue moonlight>; authentic skin texture, natural lifelike performances.
+
+Pacing: everything happens at full real-time speed, normal 1x playback speed in every shot; fast, crisp, urgent movement with a relentless cadence; every shot starts already in motion and cuts away while still moving.
+
+Summary: <ONE SENTENCE: who runs from whom, through what, and the three things that burst or fall on the way>.
+
+Characters (the same faces, hair, clothes and proportions in every shot; only one of each person in any frame):
+- The <ROLE A>: <age>, <build>, <one bright anchor garment with no print>, <shoes>; <one feeling>. Speaks only at the end, in a breathless <young woman's | young man's> voice with an American accent.
+- The <ROLE B>: <age>, <build>, <one anchor garment>; relentless. Never speaks.
+
+Setting: <the place in 4-5 concrete anchors that can burst, fall or splash: carts, crates, puddles, steam, stacked boxes>.
+
+Shot 1 | 0-2s: [Low tracking shot, handheld, running alongside] Opening mid-sprint with no establishing shot: <A tears through the place, feet pounding>. Dialogue: none.
+Shot 2 | 2-4s: [Wide shot] <B bursts through behind, closing fast>. Dialogue: none.
+Shot 3 | 4-6s: [Medium shot] <A wrenches something over behind them in one quick move>. Dialogue: none.
+Shot 4 | 6-8.5s: [Wide shot] <it bursts across the path; B charges into it and goes down hard, sliding>. Dialogue: none.
+Shot 5 | 8.5-11s: [Medium shot, running alongside] <A vaults or leaps something at full speed and lands running>. Dialogue: none.
+Shot 6 | 11-13s: [Close-up on A alone] <still moving, breathing hard>. The <ROLE A> (breathless voice, gasping mid-stride) says: {<FIVE WORDS OR FEWER, NO APOSTROPHES>}
+Shot 7 | 13-15s: [Medium shot on B alone] <B up again and moving, searching>. Dialogue: none. No one speaks after the last line.
+
+Audio: only the dialogue above, spoken exactly as written, one voice at a time. Under it rapid pounding footsteps in a fast, driving cadence, fast ragged breathing, <each burst and crash named in the shots, in order>.
+
+Constraints: do not add, repeat or remove any line. Exclude dialogue from the wrong character, two people speaking at once, lip-sync errors, face changes between shots, duplicate characters.
+
+Avoid: on-screen text, signage, lettering, printed labels, license plates, logos, extra hands, extra fingers, extra limbs, weapons.
+
+Again: no music of any kind, no subtitles, no captions, no on-screen text.

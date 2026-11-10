@@ -1,0 +1,19 @@
+{
+  "shot": "A 10-second vertical scene, eight hard cuts, handheld throughout, opening mid-action with no establishing shot. One face per speaking cut. Cinematic.",
+  "setting": "<one location, one light source, 3-4 concrete anchors, no signs or printed surfaces>",
+  "subjects": {
+    "A": "<the antagonist: adult age, look, one anchor garment with no print; cold, sure of himself>",
+    "B": "<the one the room dismisses: age, look, garment; calm, never speaks>",
+    "C": "<the intervener, if any>"
+  },
+  "action": "1 low and close: <the humiliation already landing on B's body>, the camera jostled. 2 close-up on A alone: <line 1>. 3 close-up on C alone: <line 2>. 4 close-up on A alone: <the boast>. 5 close-up on C alone: <the retort>. 6 medium on B, silent and still. 7 insert, no faces: <the reveal: an object or an arrival, close and countable>. 8 close-up on A alone, understanding, held longest.",
+  "dialogue": [
+    {"speaker": "A", "line": "<contempt, 8 words or fewer, no apostrophes>", "cut": 2},
+    {"speaker": "C", "line": "<the stand>", "cut": 3},
+    {"speaker": "A", "line": "<the boast the reveal will answer>", "cut": 4},
+    {"speaker": "C", "line": "<the retort, five words or more>", "cut": 5}
+  ],
+  "camera": "Handheld throughout: 1 jostled low, 2-5 breathing close-ups, 6 drifting slowly, 7 pushing in on the insert, 8 easing in and stopping on A's face.",
+  "audio": "Only the four lines, one voice at a time, men in dry low voices. Room tone, footsteps, fabric, <the place's own sounds>.",
+  "negative": "on-screen text, subtitles, captions, name tags, logos, printed labels, music, extra fingers, two mouths moving at once, weapons"
+}
