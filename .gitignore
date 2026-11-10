@@ -1,10 +1,10 @@
 # the owner's own material never goes to the public repo
-work/
-numbers/
-memory/*
-!memory/MEMORY.md
-plans/*
-!plans/README.md
+/work/
+/numbers/
+/memory/*
+!/memory/MEMORY.md
+/plans/*
+!/plans/README.md
 .env
 .venv/
 # media stays local
