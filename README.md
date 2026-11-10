@@ -11,7 +11,7 @@ No framework, no server, no database. Every file is short enough to read top to 
 Open a fresh Claude Code or Codex session on the new machine and give it [`INSTALL.md`](INSTALL.md):
 
 ```
-Read https://raw.githubusercontent.com/OWNER/creator-kit/master/INSTALL.md and follow it.
+Read https://raw.githubusercontent.com/mobber007/creator-kit/master/INSTALL.md and follow it.
 ```
 
 It installs ffmpeg, Python (through uv), Pillow, faster-whisper and the rest, puts the skills where the agent finds

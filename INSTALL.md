@@ -53,7 +53,7 @@ Check: `ffmpeg -version | head -1 && uv --version && git --version`.
 Clone it where the owner wants their workspace; the default is a folder named `creator` in their home:
 
 ```bash
-git clone https://github.com/OWNER/creator-kit.git ~/creator
+git clone https://github.com/mobber007/creator-kit.git ~/creator
 cd ~/creator
 uv sync
 ```
